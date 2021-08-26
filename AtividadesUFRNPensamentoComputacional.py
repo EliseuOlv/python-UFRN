@@ -273,3 +273,6 @@
 #     print('maior: {}'.format(n1))
 #     print('menor: {}'.format(n2))
 #     print('menor: {}'.format(n3))
+
+if(n1 == n2 and n1 == n3):
+  print('todos são iguais a {}'. fomart)
